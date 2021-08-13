@@ -14,1447 +14,1447 @@ function MovingIconBackground () {
         
 <div class="row">
     <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
     </div>
 
     <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+    <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-  </div>
-
-  <div class="row">
-      <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-      </div>
-
-      <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>
 
   <div class="row">
       <div>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
       <div>
-      <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
-        <i><RiReactjsLine /></i>
-        <i><BiCodeAlt /></i>
-        <i><RiHtml5Fill /></i>
-        <i><IoLogoJavascript /></i>
-        <i><AiOutlineCloudDownload /></i>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+  </div>
+
+  <div class="row">
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+      </div>
+
+      <div>
+      <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
+        <i className="main-page-icon"><RiReactjsLine /></i>
+        <i className="main-page-icon"><BiCodeAlt /></i>
+        <i className="main-page-icon"><RiHtml5Fill /></i>
+        <i className="main-page-icon"><IoLogoJavascript /></i>
+        <i className="main-page-icon"><AiOutlineCloudDownload /></i>
       </div>
 
   </div>

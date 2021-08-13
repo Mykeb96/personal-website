@@ -1,7 +1,15 @@
 import './App.css';
 import MovingIconBackground from './components/MovingIconBackground';
+import { FaGithubSquare } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
+import ContactPopup from './components/ContactPopup.js';
 
 function App() {
+
+  function popupToggle() {
+    const popup = document.getElementById('popup');
+    popup.classList.toggle('active')
+}
 
   return (
     <div className="App">
@@ -15,7 +23,7 @@ function App() {
         </div>
 
       <div className="button-container">
-          <a href="#">
+          <a href="#" onClick={popupToggle}>
             <span></span>
             <span></span>
             <span></span>
@@ -23,6 +31,16 @@ function App() {
             Contact
           </a>
         </div>
+
+      <div className='social-media'>
+        
+          <a href="#"><i className='icon-test'><FaGithubSquare /></i></a>
+          <a href="#"><i className='icon-test'><FaLinkedin /></i></a>
+
+
+      </div>
+
+      <ContactPopup popupToggle={popupToggle}/>
     </div>
   );
 }
