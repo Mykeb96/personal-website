@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&family=Style+Script&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -21,7 +23,9 @@ p {
   text-align: center;
   width: 30%;
   height: 10%;
-  
+  font-family: 'Lobster';
+  letter-spacing: 8px;
+  transition: 1s;
 }
 
 
@@ -48,10 +52,11 @@ p {
                 0 0 16px #fff;
 }
 
-.mykael:hover {
+.mykael-div:hover {
   background: -webkit-linear-gradient(rgb(0, 255, 255), rgb(255, 255, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  text-shadow: rgba(0, 225, 255, 0.25) 0px 54px 55px, rgba(0, 225, 255, 0.12) 0px -12px 30px, rgba(0, 225, 255, 0.12) 0px 4px 6px, rgba(0, 225, 255, 0.17) 0px 12px 13px, rgba(0, 225, 255, 0.09) 0px -3px 5px;
 }
 
 .button-container {
@@ -185,7 +190,7 @@ section .row {
 
 .main-page-icon:hover {
   transition: 0s;
-  color: #0f0;
+  color: rgba(0, 225, 255);
   text-shadow: 0 0 120px #0f0;
 }
 
