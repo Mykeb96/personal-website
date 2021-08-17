@@ -21,11 +21,23 @@ function ContactPopup (props) {
       e.target.reset()
     }
 
+    function popupToggle() {
+        const popup = document.getElementById('popup');
+        popup.classList.toggle('active')
+        const myName = document.querySelector('.mykael-div');
+        myName.classList.toggle('inactive');
+        const fullStack = document.querySelector('.webdev-div');
+        fullStack.classList.toggle('inactive');
+        const buttonContainer = document.querySelector('.button-container');
+        buttonContainer.classList.toggle('inactive');
+        const socialMedia = document.querySelector('.social-media');
+        socialMedia.classList.toggle('inactive');
+    }    
 
     return (
 
-        <div id="popup">
-            <a class="close" onClick={props.popupToggle}><img src={cancel}></img></a>
+        <div id="popup" className=''>
+            <a class="close" onClick={popupToggle}><img src={cancel}></img></a>
             <div className="contact-content">
                 <i className='email-icon'><HiOutlineMail /></i>
                 <h2>Contact via email</h2>

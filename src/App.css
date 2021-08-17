@@ -25,7 +25,8 @@ p {
   height: 10%;
   font-family: 'Lobster';
   letter-spacing: 8px;
-  transition: 1s;
+  /* transition: 1s; */
+  visibility: visible;
 }
 
 
@@ -40,6 +41,7 @@ p {
   right: 0;
   margin: auto;
   text-align: center;
+  visibility: visible;
 }
 
 .webdev:hover {
@@ -71,6 +73,7 @@ p {
   align-items: center;
   height: 5%;
   margin-top: 1.5%;
+  visibility: visible;
 }
 
 .button-container a {
@@ -83,7 +86,7 @@ p {
   text-decoration: none;
   font-size: 24px;
   overflow: hidden;
-  transition: 0.2s;
+  /* transition: 0.2s; */
   font-family: Courier New;
 }
 
@@ -308,7 +311,7 @@ section .row:nth-child(even) div:nth-child(2) {
   top: 60%;
   left: 46.5%;
   font-size: 64px;
-  
+  visibility: visible;
 }
 
 
@@ -423,4 +426,22 @@ input {
   padding: 5px;
   border-radius: 8px;
   margin: 10px;
+}
+
+/*  */
+
+.mykael-div.inactive {
+  visibility: hidden;
+}
+
+.webdev-div.inactive {
+  visibility: hidden;
+}
+
+.button-container.inactive {
+  visibility: hidden;
+}
+
+.social-media.inactive {
+  visibility: hidden;
 }
