@@ -86,7 +86,7 @@ p {
   text-decoration: none;
   font-size: 24px;
   overflow: hidden;
-  /* transition: 0.2s; */
+  transition: 0.2s;
   font-family: Courier New;
 }
 
