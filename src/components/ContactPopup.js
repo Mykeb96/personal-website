@@ -25,20 +25,23 @@ function ContactPopup (props) {
     return (
 
         <div id="popup">
-            <div className="content">
-                <a class="close" onClick={props.popupToggle}><img src={cancel}></img></a>
+            <a class="close" onClick={props.popupToggle}><img src={cancel}></img></a>
+            <div className="contact-content">
                 <i className='email-icon'><HiOutlineMail /></i>
                 <h2>Contact via email</h2>
                 
-                <form onSubmit={sendEmail}>
+                <div className='form-container'>
+                <form className='contact-form' onSubmit={sendEmail}>
                     <label /> Subject:
                     <input type="text" name="subject" />
-                    <label /> Message: 
-                    <input type="text" name="message" />
                     <label /> Your Email Address: 
                     <input type="email" name="returnEmail" />
-                    <button>submit</button>
+                    <label /> Message: 
+                    <textarea id='message-input' name="message"/>
+                    {/* <input type="text" name="message" id='message-input'/> */}
+                    <button>send</button>
                 </form>
+                </div>
             </div>
         </div>
     )

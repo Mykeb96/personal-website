@@ -4,6 +4,8 @@ import { FaGithubSquare } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';
 import ContactPopup from './components/ContactPopup.js';
 
+
+
 function App() {
 
   function popupToggle() {
@@ -15,7 +17,7 @@ function App() {
     <div className="App">
       <MovingIconBackground />
       <div className="mykael-div">
-        <span className="mykael">M</span><span className="mykael">y</span><span className="mykael">k</span><span className="mykael">a</span><span className="mykael">e</span><span className="mykael">l</span> <span className="mykael"></span><span className="mykael">B</span><span className="mykael">a</span><span className="mykael">r</span><span className="mykael">n</span><span className="mykael">e</span><span className="mykael">s</span> <br />
+        <span className="mykael">Mykael Barnes</span> <br />
         </div>
 
         <div className="webdev-div">
@@ -34,8 +36,8 @@ function App() {
 
       <div className='social-media'>
         
-          <a href="#"><i className='icon-test'><FaGithubSquare /></i></a>
-          <a href="#"><i className='icon-test'><FaLinkedin /></i></a>
+          <a href="https://github.com/Mykeb96"><i className='icon-test'><FaGithubSquare /></i></a>
+          <a href="https://www.linkedin.com/in/mykael-barnes/"><i className='icon-test'><FaLinkedin /></i></a>
 
 
       </div>
