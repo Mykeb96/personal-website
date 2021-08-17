@@ -272,21 +272,6 @@ section .row:nth-child(even) div:nth-child(2) {
   }
 }
 
-@media (max-width: 1463px) {
-  .button-container a {
-    color: white;
-    margin-top: 2%;
-  }
-
-  span {
-    color: white;
-  }
-
-  .testing {
-    width: 100%;
-    height: 100%;
-  }
-}
 
 .social-media a:hover {
   transform: translateY(-15px);
@@ -330,6 +315,8 @@ section .row:nth-child(even) div:nth-child(2) {
   box-shadow: 0 15px 30px rgba(0,0,0,0,0.08);
   transition: 0.5s;
   visibility: hidden;
+  width: 25%;
+  height: 50%;
   
 }
 
@@ -346,23 +333,19 @@ section .row:nth-child(even) div:nth-child(2) {
   font-size: 64px;
   color:rgba(0, 225, 255, 0.664);
   position: absolute;
-  top: 15%;
+  top: 5%;
   left: 45%;
   margin-bottom: 50%;
 }
 
-.close img{
+.close{
   width: 5%;
   height: 5%;
   cursor: pointer;
-  background:rgba(0, 225, 255, 0.664);
-  margin-left: 95%;
-  
-}
-
-.close img:hover {
-  box-shadow: rgba(0, 225, 255, 0.25) 0px 5px 5px, rgba(0, 225, 255, 0.12) 0px -12px 30px, rgba(0, 225, 255, 0.12) 0px 4px 6px, rgba(0, 225, 255, 0.17) 0px 12px 13px, rgba(0, 225, 255, 0.09) 0px -3px 5px;
-
+  position: absolute;
+  top: 3%;
+  left: 88%;
+  font-size: 50px;
 }
 
 #popup.active {
@@ -382,7 +365,7 @@ section .row:nth-child(even) div:nth-child(2) {
 .contact-content h2 {
   color:rgba(0, 225, 255, 0.664);
   text-align: center;
-  padding-top: 10%;
+  padding-top: 5%;
   padding-bottom: 10%;
   font-size: 30px;
 }
@@ -445,3 +428,89 @@ input {
 .social-media.inactive {
   visibility: hidden;
 }
+
+/*  */
+
+.view-grid {
+  font-size: 55px;
+
+}
+/* 
+.nav-bar i{
+  background: -webkit-linear-gradient(top, rgba(30, 87, 153, 0.527) 0%,rgba(89, 147, 202, 0.603) 62%,rgba(95, 155, 207, 0.479) 68%,rgba(125,185,232,0) 100%);  height: 975px;
+  color: rgba(0, 225, 255, 0.664);
+  width: 64px;
+  display: flex;
+  justify-content: center;
+  transition: 2s;
+  
+  
+} */
+
+/* .nav-bar i:hover {
+  transition: 2s;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  
+} */
+
+.nav-bar:hover {
+  transition: 0.5s;
+  width: 150px;
+  height: 30%;
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+
+}
+
+
+.nav-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: -webkit-linear-gradient(top, rgba(30, 87, 153, 0.527) 0%,rgba(89, 147, 202, 0.603) 62%,rgba(95, 155, 207, 0.479) 68%,rgba(125,185,232,0) 100%);  height: 975px;
+  color: rgba(0, 225, 255, 0.664);
+  width: 64px;
+  height: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.5s;
+  font-size: 25px;
+  
+}
+
+.nav-bar i {
+  padding: 5px;
+}
+
+.nav-bar-skills:hover {
+color: white;
+cursor: pointer;
+-webkit-animation: rotateY 3s infinite linear;
+  animation: rotateY 3s infinite linear;
+
+
+}
+.nav-bar-projects:hover {
+  color: white;
+  cursor: pointer;
+  -webkit-animation: rotateY 3s infinite linear;
+  animation: rotateY 3s infinite linear;
+  }
+.nav-bar-home:hover {
+    color: white;
+    cursor: pointer;
+    -webkit-animation: rotateY 3s infinite linear;
+  animation: rotateY 3s infinite linear;
+    }
+
+
+    @-webkit-keyframes rotateY {
+      to { -webkit-transform: rotateY(360deg); }
+    }
+    @keyframes rotateY {
+      to { transform: rotateY(360deg); }
+    }

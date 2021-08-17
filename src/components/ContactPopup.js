@@ -3,6 +3,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import emailjs from 'emailjs-com';
 import{ init } from 'emailjs-com';
 import cancel from '../assets/cancel.png';
+import { IoIosCloseCircleOutline } from 'react-icons/io';
 
 
 function ContactPopup (props) {
@@ -36,8 +37,10 @@ function ContactPopup (props) {
 
     return (
 
+        
+
         <div id="popup" className=''>
-            <a class="close" onClick={popupToggle}><img src={cancel}></img></a>
+            <a class="close" onClick={popupToggle}><IoIosCloseCircleOutline color="rgba(0, 225, 255, 0.664)"/></a>
             <div className="contact-content">
                 <i className='email-icon'><HiOutlineMail /></i>
                 <h2>Contact via email</h2>

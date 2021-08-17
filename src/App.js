@@ -1,10 +1,9 @@
 import './App.css';
 import MovingIconBackground from './components/MovingIconBackground';
-import { FaGithubSquare } from 'react-icons/fa';
-import { FaLinkedin } from 'react-icons/fa';
+
 import ContactPopup from './components/ContactPopup.js';
 import LandingPage from './components/LandingPage';
-
+import NavBar from './components/NavBar';
 
 
 function App() {
@@ -14,6 +13,7 @@ function App() {
   return (
     <div className="App">
       <MovingIconBackground />
+      <NavBar />
       <LandingPage />
       <ContactPopup />
     </div>
