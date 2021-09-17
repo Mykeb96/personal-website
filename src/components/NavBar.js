@@ -12,11 +12,11 @@ function NavBar() {
          <div className='nav-bar'>
         <i className='view-grid'><HiOutlineMenu /></i>
 
-        <i className='nav-bar-home'><RiHomeHeartFill /></i>
+        {/* <i className='nav-bar-home'><RiHomeHeartFill /></i> */}
         {/* <span className="nav-bar-subtitles">Home</span> */}
-        <i className='nav-bar-skills'><GiSkills /></i>
+        {/* <i className='nav-bar-skills'><GiSkills /></i> */}
         {/* <span className="nav-bar-subtitles">Skills</span> */}
-        <i className='nav-bar-projects'><FaHammer /></i>
+        {/* <i className='nav-bar-projects'><FaHammer /></i> */}
         {/* <span className="nav-bar-subtitles">Projects</span> */}
         </div>
     )
