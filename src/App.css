@@ -13,16 +13,17 @@ p {
 
 .mykael-div {
   position: absolute;
-  top: 40%;
-  margin: auto;
+  top: 38%;
+  /* margin: auto; */
+
   left: 0;
   right: 0;
   color: rgba(0, 225, 255, 0.664);
   font-weight: bold;
   font-size: 64px;
   text-align: center;
-  width: 30%;
-  height: 10%;
+  /* width: 30%; */
+  /* height: 10%; */
   font-family: 'Lobster';
   letter-spacing: 8px;
   /* transition: 1s; */
@@ -39,7 +40,7 @@ p {
   top: 49%;
   left: 0;
   right: 0;
-  margin: auto;
+  /* margin: auto; */
   text-align: center;
   visibility: visible;
 }
@@ -294,9 +295,11 @@ section .row:nth-child(even) div:nth-child(2) {
   flex-direction: row;
   position: absolute;
   top: 60%;
-  left: 46.5%;
+  left: 0%;
+  right: 0%;
   font-size: 64px;
   visibility: visible;
+  justify-content: center;
 }
 
 
@@ -435,30 +438,12 @@ input {
   font-size: 55px;
 
 }
-/* 
-.nav-bar i{
-  background: -webkit-linear-gradient(top, rgba(30, 87, 153, 0.527) 0%,rgba(89, 147, 202, 0.603) 62%,rgba(95, 155, 207, 0.479) 68%,rgba(125,185,232,0) 100%);  height: 975px;
-  color: rgba(0, 225, 255, 0.664);
-  width: 64px;
-  display: flex;
-  justify-content: center;
-  transition: 2s;
-  
-  
-} */
 
-/* .nav-bar i:hover {
-  transition: 2s;
-  width: 200px;
-  display: flex;
-  justify-content: center;
-  
-} */
 
 .nav-bar:hover {
   transition: 0.5s;
   width: 150px;
-  height: 30%;
+  height: 40%;
   display: flex;
   align-items: center;
   font-size: 40px;
@@ -472,8 +457,8 @@ input {
   left: 0;
   background: -webkit-linear-gradient(top, rgba(30, 87, 153, 0.527) 0%,rgba(89, 147, 202, 0.603) 62%,rgba(95, 155, 207, 0.479) 68%,rgba(125,185,232,0) 100%);  height: 975px;
   color: rgba(0, 225, 255, 0.664);
-  width: 64px;
-  height: 25%;
+  width: 4%;
+  height: 35%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -513,4 +498,14 @@ cursor: pointer;
     }
     @keyframes rotateY {
       to { transform: rotateY(360deg); }
+    }
+
+    @media (max-width: 1627px) {
+      .mykael-div {
+        /* position: absolute;
+        top: 30%;
+        left: 0%; */
+
+        /* width: 100%; */
+      }
     }
